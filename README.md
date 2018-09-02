@@ -1,2 +1,0 @@
-# MaxSubMatrix
-UniLecs Task122
